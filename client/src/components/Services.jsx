@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function Services() {
   const cardData = [
     {
-      title: "Buy Ace Token",
+      title: "Buy Pokie Token",
       img: "bg-buytoken",
       link: "/buy-token",
       description:
