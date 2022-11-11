@@ -9,7 +9,7 @@ function GetStarted() {
   const stepsData = [
     {
       title: "Connect your metamask wallet.",
-      description: "Login to your metamask wallet connect to Cryptoace.",
+      description: "Login to your metamask wallet connect to PokieLottery.",
       url: "https://metamask.io/faqs/",
       img: Wallet,
     },
@@ -39,11 +39,11 @@ function GetStarted() {
               Secured
             </h2>
             <p className="font-raj text-center lg:text-left tracking-wider pt-2">
-              Every transaction made from Cryptoace is safe and secured. You can
+              Every transaction made from PokieLottery is safe and secured. You can
               also track any of your transactions on the metamask wallet and
               also on ehterscan.
               <span className="hidden lg:block">
-                All the transactions on cryptoace works transparently and hence
+                All the transactions on PokieLottery works transparently and hence
                 follows the web3 rules.
               </span>
             </p>

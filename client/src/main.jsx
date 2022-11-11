@@ -7,9 +7,9 @@ import { ContractsProvider } from "./context/ContractsContext";
 
 ReactDOM.render(
   <BrowserRouter>
-      <ContractsProvider>
-        <App />
-      </ContractsProvider>
+    <ContractsProvider>
+      <App />
+    </ContractsProvider>
   </BrowserRouter>,
   document.getElementById("root")
 );

@@ -14,10 +14,10 @@ const Footer = () => {
             title="Company"
             className="inline-flex items-center"
           >
-            <img src={Logo} alt="CryptoAce Logo" />
+            <img src={Logo} alt="PokieLottery Logo" />
             <span className="text-3xl font-raj font-semibold tracking-wider text-white">
-              Crypto
-              <span className="text-logo-gradient">ace</span>
+              Pokie
+              <span className="text-logo-gradient">Lottery</span>
             </span>
           </Link>
         </div>
@@ -67,6 +67,7 @@ const Footer = () => {
           </p>
 
           <div className="flex items-center mt-1 py-2 space-x-5 justify-center">
+            {/*
             <a
               target="_blank"
               href="https://twitter.com/chauhansamrath"
@@ -93,17 +94,18 @@ const Footer = () => {
             >
               <Github />
             </a>
+            */}
           </div>
 
           <div className="text-center text-sm py-2 lg:text-right lg:text-base md:text-right md:text-base">
             <p className=" text-slate-200 font-medium">
-              Made with ❤️ by {""}
+              Made with by {""}
               <a
                 target="_blank"
                 href="https://github.com/samrath49"
                 className="font-raj font-semibold tracking-wide hoverEffect"
               >
-                Samrath Chauhan
+                Team Faus
               </a>
             </p>
           </div>

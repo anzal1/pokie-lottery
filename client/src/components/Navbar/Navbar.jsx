@@ -24,10 +24,10 @@ const Navbar = () => {
             title="Company"
             className="inline-flex items-center"
           >
-            <img src={Logo} alt="CryptoAce" />
+            <img src={Logo} alt="PokieLottery" />
             <span className="text-3xl font-raj font-semibold tracking-wider text-white">
-              Crypto
-              <span className="text-logo-gradient">ace</span>
+              Pokie
+              <span className="text-logo-gradient">Lottery</span>
             </span>
           </Link>
 

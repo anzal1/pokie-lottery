@@ -28,7 +28,7 @@ const Welcome = () => {
 
             <p className="mt-6 mb-8 z-10 font-raj text-slate-300 text-lg sm:mb-12 xl:max-w-3xl">
               Send cryptos across the world and track your every transaction
-              with cryptoace.
+              with PokieLottery.
             </p>
             <div className="flex flex-wrap justify-center">
               <button

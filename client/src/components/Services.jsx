@@ -8,7 +8,7 @@ function Services() {
       img: "bg-buytoken",
       link: "/buy-token",
       description:
-        "A safe secure crypto token offered from Cryptoace for your own use. Buy a token using ropsten ethereum.",
+        "A safe secure crypto token offered from PokieLottery for your own use. Buy a token using ropsten ethereum.",
     },
     {
       title: "Play Lottery Game",
